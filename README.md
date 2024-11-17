@@ -1,16 +1,6 @@
-# myapp
+Nama : A.A. Gede Mayun Dipa Pranajaya 
+Nim  : 220010030
+![Screenshot 2024-11-17 233858](https://github.com/user-attachments/assets/e2bffb18-9a35-4daf-9d6f-1d75e311f888) 
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
